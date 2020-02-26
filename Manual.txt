@@ -1,0 +1,11 @@
+1.- http://jmeter.apache.org/download_jmeter.cgi
+
+2.-Video-->   https://www.youtube.com/watch?v=E2zwM8s7thY
+
+3.-ir -->  C:\JMETER\Software\apache-jmeter-5.2.1\bin
+
+4.--> doble clik sobre el ejecutable
+
+5.-web a probar -->  www.blazedemo.com
+
+6.-Plugins graficos --> https://jmeter-plugins.org/
